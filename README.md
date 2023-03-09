@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ahmed</h1>
-<h3 align="justify">I Am Passionate Astrophilia Obsessed Individual From Mysore Who Loves Coding and Designing, I Have Graduated My Bachelors of Computer Application From Vidya Vikas, I'm Highly Interested in Making Games and Designing Web Applications, I have worked as a Freelancer of Photoshop And Adobe Premiere Pro, Working to become a Software Developer</h3>
+<h3 align="justify">WelCome StranGers</h3>
 <p align="center"> <img alt="Coder GIF" height=400 width=700 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
 
 
