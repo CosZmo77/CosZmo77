@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ahmed</h1>
 <h3 align="justify">WelCome StranGers</h3>
-<p align="center"> <img alt="Coder GIF" height=400 width=700 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
-
-
 - 👨‍💻 All of my projects are available at [https://saad77.netlify.app/](https://saad77.netlify.app/)
 
 - 📫 How to reach me **syedsaadahmed77@gmail.com**
